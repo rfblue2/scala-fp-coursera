@@ -1,0 +1,40 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(/home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$5.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$Level1$class.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$SolutionChecker$class.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$6.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$1.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$3$$anon$3.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$3.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$4.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$6$$anon$6.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$2$$anon$2.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$4$$anon$4.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$SolutionChecker$$anonfun$solve$1.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$SolutionChecker.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$5$$anon$5.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$2.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$$anonfun$1$$anon$1.class, /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes/streams/BloxorzSuite$Level1.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 790f7534, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/rfong/Documents/workspace/scala/streams/target/scala-2.11/test-classes:/home/rfong/Documents/workspace/scala/streams/target/scala-2.11/classes:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar:/home/rfong/.sbt/preloaded/org.scala-sbt/test-interface/1.0/jars/test-interface.jar:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1.jar:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar:/home/rfong/.coursier/cache/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.982205074 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/rfong/Documents/workspace/scala/streams/src/test/scala/streams/BloxorzSuite.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, newNeighborsOnly, solve, pathsFromStart, equals, asInstanceOf, synchronized, $isInstanceOf, goal, terrainFunction, notifyAll, isInstanceOf, solution, Move, ==, Down, Left, clone, terrain, pathsToGoal, from, $init$, startBlock, Level2, Up, done, toString, findChar, Pos, !=, getClass, neighborsWithHistory, Terrain, ne, startPos, Block, Right, eq, ##, finalize, hashCode, level.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
